@@ -1,5 +1,5 @@
 <h1>  -🧐 Olá, me chamo Cintia <h1>
-  <h3>Estudante de Ciência da Computação</h3>
+<h3>Estudante de Ciência da Computação</h3>
 <div>
   <a href="https://github.com/cintiateixeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cintiateixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
